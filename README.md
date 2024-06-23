@@ -3,7 +3,7 @@
 The project aims to evaluate and compare the performance of 4 kernel functions, namely "rbf", "linear", "polynomial" and "sigmoid" in SVC (Support Vector Classification), the classification function of SVM (Support Vector Machine) algorithm, on a multiple classification application with star data set.
 
 # Dataset
-The dataset used in this project can be downloaded from this link. It contains various features of stars.
+The dataset used in this project can be downloaded from this [link](https://github.com/YBIFoundation/Dataset/raw/main/Stars.csv). It contains various features of stars.
 
 # Technologies Used
 - Python
